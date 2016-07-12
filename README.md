@@ -25,6 +25,8 @@ Střediska jsou popsány dále.
 ├─── PO
 ├─── RK
 ├─── KK
+├─ Parlament
+├─── senat
 ├─ Praha
 ├─── PKS
 ├─── PZK
