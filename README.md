@@ -1,1 +1,2 @@
-# spisovka-example
+# Centrální spisová služba Pirátské strany
+
